@@ -1,0 +1,18 @@
+.card {
+    display: inline-block;
+    gap: 0.8rem;
+  }
+
+  .colorbox {    
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin: 0.5rem;
+    border-radius: 10px
+  }
+
+  .texto {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
